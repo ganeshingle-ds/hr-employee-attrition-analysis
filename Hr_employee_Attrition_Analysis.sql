@@ -7,8 +7,7 @@ TO hr_employee_attrition;
 select count(*) as total_rows 
 from hr_employee_attrition
 ;
-ALTER TABLE hr_employee_attrition
-RENAME COLUMN `ï»¿Age` TO Age;
+
 SELECT 
 Department,
 COUNT(*) AS total_employees,
