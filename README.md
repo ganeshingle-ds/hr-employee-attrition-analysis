@@ -40,4 +40,5 @@ Total Employees: 1470
 * Interactive filters for Department, Gender, Job Role, and Education
 
 ## Dashboard Preview
-![HR DASHBOARD](dashboardhr.png)
+<img width="1042" height="732" alt="HR_DASHBOARD" src="https://github.com/user-attachments/assets/e6655242-a25b-4fd3-bf6f-8b117b5becf9" />
+
